@@ -1,0 +1,5 @@
+F:\Data\nothing\Nguyen\PBL3\QLBanDongHo\obj\Debug\QLBanDongHo.csproj.AssemblyReference.cache
+F:\Data\nothing\Nguyen\PBL3\QLBanDongHo\obj\Debug\QLBanDongHo.csproj.SuggestedBindingRedirects.cache
+F:\Data\nothing\Nguyen\PBL3\QLBanDongHo\obj\Debug\QLBanDongHo.Properties.Resources.resources
+F:\Data\nothing\Nguyen\PBL3\QLBanDongHo\obj\Debug\QLBanDongHo.csproj.GenerateResource.cache
+F:\Data\nothing\Nguyen\PBL3\QLBanDongHo\obj\Debug\QLBanDongHo.csproj.CoreCompileInputs.cache
